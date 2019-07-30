@@ -249,12 +249,12 @@ span.the-btn {
 	border-bottom: 1px solid #66ccff;
 	border-right: 4px solid #66ccff;
 }
-
+/*
 #toggle ul li a:hover {
 	background: #39cccc;
 	color: #000000;
 }
-
+*/
 #toggle ul li a {
 	margin-left: 0;
 }
@@ -353,11 +353,11 @@ body {
 a {
 	text-decoration: none;
 }
-
+/*
 a:hover {
 	text-decoration: none
 }
-
+*/
 *:before,
 *:after {
 	-webkit-box-sizing: border-box;
