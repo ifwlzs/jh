@@ -1344,13 +1344,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.cnscg.com/",
-    "name": "圣城家园",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.ygdy8.com",
     "name": "阳光电影",
     "info": "暂无评价",
@@ -1400,13 +1393,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "https://www.ifun.tv/",
-    "name": "ifun",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.idyjy.com/",
     "name": "电影家园",
     "info": "暂无评价",
@@ -1421,8 +1407,15 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.qyxdh.cn/",
+    "url": "http://www.qinyiso.com/",
     "name": "秦一鑫电影",
+    "info": "暂无评价",
+    "title": "电影",
+    "page": "https://jh.wlzs.cf/film.html"
+  },
+  {
+    "url": "http://www.007ts.com/",
+    "name": "007影视",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -1442,7 +1435,7 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://aaxxy.com/",
+    "url": "http://www.aaxxr.com",
     "name": "爱水果影圈",
     "info": "在线观看",
     "title": "电影",
@@ -1470,13 +1463,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.007ts.com/",
-    "name": "007影视",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://yskk.net/",
     "name": "影视看看",
     "info": "暂无评价",
@@ -1491,36 +1477,8 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.rs05.com/",
-    "name": "人生05电影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.xunyingwang.com/",
-    "name": "迅影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.0352tv.com/",
     "name": "魏都影视",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.66ys.tv/",
-    "name": "66影视",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.shinybbs.info/forum.php",
-    "name": "深影论坛",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -1533,13 +1491,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "https://www.mcyt.cn/",
-    "name": "扬天影视",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.languang.co/",
     "name": "蓝光网",
     "info": "暂无评价",
@@ -1547,22 +1498,8 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.btshoufa.net/",
-    "name": "BT首发论坛",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://v.sunbook.cc/",
     "name": "暖光影视",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://17kyun.com/",
-    "name": "17kyun",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -1603,34 +1540,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.diaomie.com/",
-    "name": "片哈网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.87kp.tv/",
-    "name": "87电影院",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.hb720.tv/",
-    "name": "720影视大全",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.66vip.me/",
-    "name": "66vip",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.vzmz.com",
     "name": "电影天堂",
     "info": "暂无评价",
@@ -1645,14 +1554,14 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.hdbee.net/",
+    "url": "https://www.dybee.tv/",
     "name": "电影蜜蜂",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "",
+    "url": "https://moviejie.net/",
     "name": "电影街",
     "info": "暂无评价",
     "title": "电影",
@@ -1687,13 +1596,6 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://xlyy100.com/",
-    "name": "降龙影院",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.youzhidy.com/",
     "name": "优质电影网",
     "info": "暂无评价",
@@ -1715,29 +1617,8 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.kb20.cc/",
-    "name": "酷播网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.youzhidy.com/",
     "name": "优质电影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.moviewg.com/",
-    "name": "电影王国",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://bbs.hd62.org/",
-    "name": "老鸟家园",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -1750,36 +1631,8 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.80s.tw/",
-    "name": "80s电影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.hao6v.com/",
-    "name": "6V电影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.q2002.com/",
-    "name": "Q2电影",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
     "url": "http://www.8vdy.com/",
     "name": "8V电影",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.zaizai8.com/",
-    "name": "仔仔网",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -1799,22 +1652,8 @@
     "page": "https://jh.wlzs.cf/film.html"
   },
   {
-    "url": "http://www.sgn8.com/",
-    "name": "87福利电影网",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "https://www.dytt789.com/",
-    "name": "LOL电影天堂",
-    "info": "暂无评价",
-    "title": "电影",
-    "page": "https://jh.wlzs.cf/film.html"
-  },
-  {
-    "url": "http://www.mp4ba.net/",
-    "name": "Mp4Ba",
+    "url": "http://www.aiaike.com/",
+    "name": "爱爱客影院",
     "info": "暂无评价",
     "title": "电影",
     "page": "https://jh.wlzs.cf/film.html"
@@ -3019,7 +2858,14 @@
   {
     "url": "#",
     "name": "云林公社",
-    "info": "kj201873",
+    "info": "yunlin05",
+    "title": "优质公众号推荐",
+    "page": "https://jh.wlzs.cf/soft.html"
+  },
+  {
+    "url": "#",
+    "name": "云林科技",
+    "info": "taluoguniang",
     "title": "优质公众号推荐",
     "page": "https://jh.wlzs.cf/soft.html"
   },
@@ -3902,6 +3748,13 @@
     "url": "http://gx7.cc",
     "name": "资源共享区",
     "info": "暂无评价",
+    "title": "导航 & 实用工具",
+    "page": "https://jh.wlzs.cf/tool.html"
+  },
+  {
+    "url": "https://lunwen.im/",
+    "name": "喵咪论文",
+    "info": "论文免费下载",
     "title": "导航 & 实用工具",
     "page": "https://jh.wlzs.cf/tool.html"
   },
